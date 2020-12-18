@@ -47,7 +47,7 @@ body{
 
   .site-nav{
     display: grid;
-    grid-template-columns: 7fr 4fr ;
+    grid-template-columns: 6fr 5fr ;
     text-decoration: none;
     align-items: center;
     font-family: Neo sans;  
