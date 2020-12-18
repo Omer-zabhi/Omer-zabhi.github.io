@@ -85,7 +85,7 @@ body{
 
 h2{
   align-content: center;
-  padding: 20px 210px;
+  padding: 20px 180px;
   font-family: Neo sans;
   color:  rgb(53, 51, 51);
 }
@@ -138,6 +138,7 @@ h2{
     padding: 20px 0px;
     background-color: #799fad;
     align-self: center;
+    padding-top: 50px;
 
   }
 
@@ -162,7 +163,7 @@ h2{
 
 #h2{
   align-content: center;
-  padding: 20px 185px;
+  padding: 20px 170px;
   font-family: Neo sans;
   color:  rgb(53, 51, 51);
 
