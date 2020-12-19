@@ -105,7 +105,7 @@ h2{
     width: 100%;
     overflow-x: scroll;
     padding-top: 20px;
-    padding-bottom: 130px;
+    padding-bottom: 100px;
     float: left;
     scroll-behavior: smooth;
     
@@ -150,7 +150,7 @@ h2{
   }
   
   #locateus{
-    padding: 30px 0px;
+    padding: 60px 0px;
   }
 
 #locateus img{
