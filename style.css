@@ -105,7 +105,7 @@ h2{
     width: 100%;
     overflow-x: scroll;
     padding-top: 20px;
-    padding-bottom: 180px;
+    padding-bottom: 130px;
     float: left;
     scroll-behavior: smooth;
     
@@ -161,7 +161,7 @@ h2{
 
 #h2{
   align-content: center;
-  padding: 20px 160px;
+  padding: 20px 145px;
   font-family: Neo sans;
   color:  rgb(53, 51, 51);
 
